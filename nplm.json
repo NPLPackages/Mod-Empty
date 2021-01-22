@@ -1,0 +1,7 @@
+{
+  "name": "Mod-Empty",
+  "version": "1.0.0",
+  "description": "empty mod for testing dependency",
+  "dependencies": {
+  }
+}
