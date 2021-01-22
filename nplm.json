@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "description": "empty mod for testing dependency",
   "dependencies": [
+    {
+      "name": "HelloWorld",
+      "type": "github",
+      "source": "https://codeload.github.com/tatfook/HelloWorld/zip/master"
+    }
   ]
 }
