@@ -11,6 +11,6 @@ FunctionEcho.say("hello npl!");
 ]]
 local FunctionEcho = NPL.export();
 
-function Echofunction.say(s)
+function FunctionEcho.say(s)
     commonlib.echo(s);
 end
